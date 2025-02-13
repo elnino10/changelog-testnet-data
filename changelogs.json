@@ -62,5 +62,21 @@
     "deletedAt": null,
     "createdAt": "2024-12-26T15:17:04.911Z",
     "updatedAt": "2024-12-28T15:27:15.309Z"
+  },
+  {
+    "_id": "676d7370e8aea55a9225e310",
+    "title": "Fifth change log",
+    "description": "Our Fifth change log",
+    "tenantKey": "new_org_fyevB",
+    "organisationId": "67657743bd667298afeb2967",
+    "category": "6762c367db36bac8f51d1bc2",
+    "authorId": "6762afaca7b5af6366ae9538",
+    "tags": ["new", "fix"],
+    "published": true,
+    "visibility": "private",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2024-12-26T15:17:04.911Z",
+    "updatedAt": "2024-12-28T15:27:15.309Z"
   }
 ]
