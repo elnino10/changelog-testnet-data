@@ -5,7 +5,30 @@
     "description": "Our very first change log",
     "tenantKey": "impresa_consults_euevB",
     "organisationId": "67657743bd667298afeb2969",
-    "category": "6762c367db36bac8f51d1bc2",
+    "categories": [
+      {
+        "_id": "6762c367db36bac8f51d1bc2",
+        "name": "new",
+        "plan": "public",
+        "description": "new category",
+        "isDeleted": null,
+        "deletedBy": null,
+        "deletedAt": null,
+        "createdAt": "2024-12-20T14:10:20.509Z",
+        "updatedAt": "2024-12-20T14:10:20.509Z"
+      },
+      {
+        "_id": "6762c367db36bac8f51d1bc3",
+        "name": "fix",
+        "plan": "public",
+        "description": "fix category",
+        "isDeleted": null,
+        "deletedBy": null,
+        "deletedAt": null,
+        "createdAt": "2024-12-20T14:10:20.509Z",
+        "updatedAt": "2024-12-20T14:10:20.509Z"
+      }
+    ],
     "authorId": "6762afaca7b5af6366ae9538",
     "tags": ["new", "fix"],
     "published": true,
@@ -21,7 +44,19 @@
     "description": "Our second change log",
     "tenantKey": "impresa_consults_euevB",
     "organisationId": "67657743bd667298afeb2969",
-    "category": "6762c367db36bac8f51d1bc2",
+    "categories": [
+      {
+        "_id": "6762c367db36bac8f51d1bc2",
+        "name": "new",
+        "plan": "public",
+        "description": "new category",
+        "isDeleted": null,
+        "deletedBy": null,
+        "deletedAt": null,
+        "createdAt": "2024-12-20T14:10:20.509Z",
+        "updatedAt": "2024-12-20T14:10:20.509Z"
+      }
+    ],
     "authorId": "6762afaca7b5af6366ae9538",
     "tags": ["fix"],
     "published": true,
@@ -37,7 +72,41 @@
     "description": "Our third change log",
     "tenantKey": "tenant_key",
     "organisationId": "67657743bd667298afeb2967",
-    "category": "6762c367db36bac8f51d1bc2",
+    "categories": [
+      {
+        "_id": "6762c367db36bac8f51d1bc2",
+        "name": "new",
+        "plan": "public",
+        "description": "new category",
+        "isDeleted": null,
+        "deletedBy": null,
+        "deletedAt": null,
+        "createdAt": "2024-12-20T14:10:20.509Z",
+        "updatedAt": "2024-12-20T14:10:20.509Z"
+      },
+      {
+        "_id": "6762c367db36bac8f51d1bc3",
+        "name": "fix",
+        "plan": "public",
+        "description": "fix category",
+        "isDeleted": null,
+        "deletedBy": null,
+        "deletedAt": null,
+        "createdAt": "2024-12-20T14:10:20.509Z",
+        "updatedAt": "2024-12-20T14:10:20.509Z"
+      },
+      {
+        "_id": "6762c367db36bac8f51d1bc4",
+        "name": "update",
+        "plan": "public",
+        "description": "update category",
+        "isDeleted": null,
+        "deletedBy": null,
+        "deletedAt": null,
+        "createdAt": "2024-12-20T14:10:20.509Z",
+        "updatedAt": "2024-12-20T14:10:20.509Z"
+      }
+    ],
     "authorId": "6762afaca7b5af6366ae9538",
     "tags": ["new", "update"],
     "published": true,
@@ -53,43 +122,34 @@
     "description": "Our fourth change log",
     "tenantKey": "new_org_fyevB",
     "organisationId": "67657743bd667298afeb2967",
-    "category": "6762c367db36bac8f51d1bc2",
+    "categories": [
+      {
+        "_id": "6762c367db36bac8f51d1bc3",
+        "name": "fix",
+        "plan": "public",
+        "description": "fix category",
+        "isDeleted": null,
+        "deletedBy": null,
+        "deletedAt": null,
+        "createdAt": "2024-12-20T14:10:20.509Z",
+        "updatedAt": "2024-12-20T14:10:20.509Z"
+      },
+      {
+        "_id": "6762c367db36bac8f51d1bc4",
+        "name": "update",
+        "plan": "public",
+        "description": "update category",
+        "isDeleted": null,
+        "deletedBy": null,
+        "deletedAt": null,
+        "createdAt": "2024-12-20T14:10:20.509Z",
+        "updatedAt": "2024-12-20T14:10:20.509Z"
+      }
+    ],
     "authorId": "6762afaca7b5af6366ae9538",
     "tags": ["new", "fix", "update"],
     "published": true,
     "visibility": "public",
-    "isActive": true,
-    "deletedAt": null,
-    "createdAt": "2024-12-26T15:17:04.911Z",
-    "updatedAt": "2024-12-28T15:27:15.309Z"
-  },
-  {
-    "_id": "676d7370e8aea55a9225e312",
-    "title": "Fifth change log",
-    "description": "Our Fifth change log",
-    "tenantKey": "new_org_fyevB",
-    "organisationId": "67657743bd667298afeb2967",
-    "category": "6762c367db36bac8f51d1bc2",
-    "authorId": "6762afaca7b5af6366ae9538",
-    "tags": ["new", "fix"],
-    "published": true,
-    "visibility": "private",
-    "isActive": true,
-    "deletedAt": null,
-    "createdAt": "2024-12-26T15:17:04.911Z",
-    "updatedAt": "2024-12-28T15:27:15.309Z"
-  },
-  {
-    "_id": "676d7370e8aea55a9225e311",
-    "title": "Sixth change log",
-    "description": "Our Sixth change log",
-    "tenantKey": "tenant_key",
-    "organisationId": "67657743bd667298afeb2967",
-    "category": "6762c367db36bac8f51d1bc2",
-    "authorId": "6762afaca7b5af6366ae9538",
-    "tags": ["fix"],
-    "published": true,
-    "visibility": "private",
     "isActive": true,
     "deletedAt": null,
     "createdAt": "2024-12-26T15:17:04.911Z",
