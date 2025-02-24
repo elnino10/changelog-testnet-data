@@ -30,7 +30,6 @@
       }
     ],
     "authorId": "6762afaca7b5af6366ae9538",
-    "tags": ["new", "fix"],
     "published": true,
     "visibility": "public",
     "isActive": true,
@@ -58,7 +57,6 @@
       }
     ],
     "authorId": "6762afaca7b5af6366ae9538",
-    "tags": ["fix"],
     "published": true,
     "visibility": "public",
     "isActive": true,
@@ -108,7 +106,6 @@
       }
     ],
     "authorId": "6762afaca7b5af6366ae9538",
-    "tags": ["new", "update"],
     "published": true,
     "visibility": "public",
     "isActive": true,
@@ -147,7 +144,6 @@
       }
     ],
     "authorId": "6762afaca7b5af6366ae9538",
-    "tags": ["new", "fix", "update"],
     "published": true,
     "visibility": "public",
     "isActive": true,
